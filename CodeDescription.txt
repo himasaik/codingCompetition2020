@@ -1,0 +1,21 @@
+Absolutely:
+Take an array as input, get absolute value by multipling by -1 and summing all elements
+
+JustWingIt:
+Created base cases and a while loop to find combination of 7s and 11s to see if conditions are satisified
+
+OhNo:
+Converted input string to integer array, used for loop to jump through with step equals 3 to locate sausage on pizza.
+
+ButAesthetic:
+Implemented SpiderMan mask by manipulating rows and colums
+
+TopNotchPizza:
+Created a dynamic array of Order objects and requested user input to assign quantities of toppings available and requested.
+Used a for loop to traverse through the array and check if all 3 toppings could be used to make the pizza. Assumption
+was that there can only be 3 toppings due to time constraints.
+
+Worst calc:
+Implemented a simple calculator that is not efficient in checking base cases before computing value.
+
+SortYourIssues:
