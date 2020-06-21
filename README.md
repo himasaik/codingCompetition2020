@@ -1,11 +1,11 @@
 # codingCompetition2020
 
 ## Group name
- -
+ Panthera CS
 
 ## Group members and email
- -
- -
+ Hima Sai Kattumuri (kattumurhimasai@gmail.com)
+ Tanya Raja (tanyaraja00@gmail.com)
  -
  -
 
